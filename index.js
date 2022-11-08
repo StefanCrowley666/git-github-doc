@@ -1,1 +1,3 @@
-console.log("Hello git");
+function main() {
+  console.log("Main file");
+}
