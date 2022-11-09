@@ -8,3 +8,7 @@ git config -l
 git status
 git add .
 git commit -m "Bootstrap code"
+git pull
+git branch
+git branch feature-one
+git checkout feature-one
